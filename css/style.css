@@ -1,4 +1,15 @@
 
+.kwadrat {
+   height: 100px;
+   width: 100px;
+   margin: 10px;
+   background-color:orange ;
+}
+
+body {
+   background-color: darkgrey ;
+}
+
  h1 {
     color: floralwhite;
  }   
